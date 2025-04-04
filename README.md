@@ -1,5 +1,4 @@
-:snake: Snake Game
-===
+# 🗿 Bible Game 2025
 
 Introduction
 ---
