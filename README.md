@@ -2,13 +2,20 @@
 
 Introduction
 ---
-This game follows the classic Snake gameplay you're familiar with—each time the snake eats a fruit, 
-its body grows longer. However, if it accidentally runs into itself or crashes into a wall, 
-the game will end immediately.
+This game is based on the Book of Exodus from the Bible and consists of three main stages: Plagues, 
+the Red Sea, and the Ten Commandments.
+
+In the first two stages, the protagonist, Moses, is chased by monsters. Players can move using 
+W, A, S, D and attack enemies by shooting. Various obstacles will also appear to hinder Moses' progress. 
+To clear the first and second stages, players must reach the exit at the bottom-right corner to proceed 
+to the next level.
+
+In the third stage (Ten Commandments), the objective is to collect all ten stone tablets. Only after 
+gathering them all can the player complete the challenge and advance!
 
 Download
 ---
-[Link to Snake Game](https://drive.google.com/file/d/1yHLjJlKnsuRGpbOCM_hurpqdVXwAP5Ku/view?usp=sharing)
+[Link to Bible Game 2025](https://drive.google.com/file/d/1aFMcJnVnGYGYg_l_MiDbyiF1E89Sm2r-/view?usp=sharing)
 
 [Link to JDK](https://www.oracle.com/java/technologies/downloads/)
 
