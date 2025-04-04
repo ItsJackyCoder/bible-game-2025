@@ -34,11 +34,23 @@ User Interface
 ---
 
     
-#### Home Page:
-![](assets/main_screen.png)
+#### Level 1:
+![](assets/Level1.png)
+
+#### Level 2:
+![](assets/Level2.png)
+
+#### Level 3:
+![](assets/Level3.png)
+
+#### Shoot:
+![](assets/shoot.png)
+
+#### Pass all the levels:
+![](assets/Complete.png)
 
 #### Game Over:
-![](assets/game_over.png)
+![](assets/die.png)
 
 
 
