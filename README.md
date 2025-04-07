@@ -15,6 +15,8 @@ gathering them all can the player complete the challenge and advance!
 
 Download
 ---
+<a href="https://drive.google.com/file/d/1aFMcJnVnGYGYg_l_MiDbyiF1E89Sm2r-/view?usp=sharing" target="_blank">點我在新視窗開啟</a>
+
 [Link to Bible Game 2025](https://drive.google.com/file/d/1aFMcJnVnGYGYg_l_MiDbyiF1E89Sm2r-/view?usp=sharing)
 
 [Link to JDK](https://www.oracle.com/java/technologies/downloads/)
