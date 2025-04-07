@@ -33,7 +33,9 @@ Technology Stack
 User Interface
 ---
 
-    
+#### Game Rules:
+![](assets/howToPlay.png)
+
 #### Level 1:
 ![](assets/Level1.png)
 
